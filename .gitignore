@@ -1,2 +1,4 @@
 Dataset
 *.ipynb_checkpoints
+*.log
+catboost_info
